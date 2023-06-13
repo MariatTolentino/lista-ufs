@@ -7,6 +7,43 @@
   <title>Lista php</title>
 </head>
 
+<h1>Unidades Federativas do Brasil</h1>
+
+  <hr>
+  
+  <style>
+    
+  hr {
+  margin-bottom: 30px;
+  }
+    
+  body {
+    background-color: #e9e9e9;
+  }
+
+  table {
+    font-family: navajowhite, sans-serif;
+    font-size: 14px;
+    color: #333;
+    border-collapse: collapse;
+    margin-right: 40px;
+    margin-left: 30px;
+  }
+
+  table th {
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+  }
+
+  table td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+</style>
+
 <body>
   
   <?php
@@ -28,7 +65,7 @@
       "Mortalidade Infatil (2016)" => "17.0%",
       "Expectativa de Vida (2016)" => "73.9 anos"
     ],
-    
+
     "Alagoas" => [
       "Bandeira" => "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg",
       "Unidade Federativa" => "Alagoas",
