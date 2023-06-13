@@ -28,6 +28,7 @@
       "Mortalidade Infatil (2016)" => "17.0%",
       "Expectativa de Vida (2016)" => "73.9 anos"
     ],
+    
     "Alagoas" => [
       "Bandeira" => "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg",
       "Unidade Federativa" => "Alagoas",
@@ -44,6 +45,7 @@
       "Mortalidade Infatil (2016)" => "19.5%",
       "Expectativa de Vida (2016)" => "71.6 anos"
     ],
+
     "Amapá" => [
       "Bandeira" => "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_do_Amap%C3%A1.svg",
       "Unidade Federativa" => "Amapá",
@@ -383,8 +385,92 @@
       "Mortalidade Infantil (2016)" => "17.4‰",
       "Expectativa de Vida (2016)" => "72.9 anos"
     ],
-    
-];
+
+    "Roraima" => [
+        "Bandeira" => "https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_de_Roraima.svg",
+        "Unidade Federativa" => "Roraima",
+        "Abreviação" => "RR",
+        "Sede do Governo" => "Boa Vista",
+        "Área" => 224300.5,
+        "População" => 652713,
+        "Densidade" => 2.85,
+        "PIB (2015)" => 12391300,
+        "(% total) (2015)" => 0.2,
+        "PIB per capita (R$) (2015)" => 19666.47,
+        "IDH (2010)" => 0.725,
+        "Alfabetização (2016)" => "96.1%",
+        "Mortalidade Infantil (2016)" => "19.6‰",
+        "Expectativa de Vida (2016)" => "72.4 anos"
+      ],
+      
+      "Santa Catarina" => [
+        "Bandeira" => "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Santa_Catarina.svg",
+        "Unidade Federativa" => "Santa Catarina",
+        "Abreviação" => "SC",
+        "Sede do Governo" => "Florianópolis",
+        "Área" => 95736.2,
+        "População" => 7252502,
+        "Densidade" => 76.00,
+        "PIB (2015)" => 254503000,
+        "(% total) (2015)" => 4.3,
+        "PIB per capita (R$) (2015)" => 35124.11,
+        "IDH (2010)" => 0.774,
+        "Alfabetização (2016)" => "97.4%",
+        "Mortalidade Infantil (2016)" => "9.2‰",
+        "Expectativa de Vida (2016)" => "79.1 anos"
+      ],
+      
+      "São Paulo" => [
+        "Bandeira" => "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg",
+        "Unidade Federativa" => "São Paulo",
+        "Abreviação" => "SP",
+        "Sede do Governo" => "São Paulo",
+        "Área" => 248222.8,
+        "População" => 45919049,
+        "Densidade" => 184.66,
+        "PIB (2015)" => 2169910000,
+        "(% total) (2015)" => 36.5,
+        "PIB per capita (R$) (2015)" => 46860.48,
+        "IDH (2010)" => 0.783,
+        "Alfabetização (2016)" => "95.4%",
+        "Mortalidade Infantil (2016)" => "10.8‰",
+        "Expectativa de Vida (2016)" => "77.4 anos"
+      ],
+      
+      "Sergipe" => [
+        "Bandeira" => "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Sergipe.svg",
+        "Unidade Federativa" => "Sergipe",
+        "Abreviação" => "SE",
+        "Sede do Governo" => "Aracaju",
+        "Área" => 21915.1,
+        "População" => 2278308,
+        "Densidade" => 96.88,
+        "PIB (2015)" => 36763200,
+        "(% total) (2015)" => 0.6,
+        "PIB per capita (R$) (2015)" => 16212.82,
+        "IDH (2010)" => 0.665,
+        "Alfabetização (2016)" => "92.4%",
+        "Mortalidade Infantil (2016)" => "15.6‰",
+        "Expectativa de Vida (2016)" => "72.7 anos"
+      ],
+      
+      "Tocantins" => [
+        "Bandeira" => "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_do_Tocantins.svg",
+        "Unidade Federativa" => "Tocantins",
+        "Abreviação" => "TO",
+        "Sede do Governo" => "Palmas",
+        "Área" => 277720.5,
+        "População" => 1590248,
+        "Densidade" => 5.66,
+        "PIB (2015)" => 26637400,
+        "(% total) (2015)" => 0.4,
+        "PIB per capita (R$) (2015)" => 16701.50,
+        "IDH (2010)" => 0.699,
+        "Alfabetização (2016)" => "93.4%",
+        "Mortalidade Infantil (2016)" => "19.5‰",
+        "Expectativa de Vida (2016)" => "73.9 anos"
+      ],
+    ];
 ?>
 
  <table style = "background-color: white;">
